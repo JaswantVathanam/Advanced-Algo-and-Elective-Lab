@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class StackAmortizedFriend {
+class StackAmortizedMenu {
     static int[] stack = new int[2], top = {-1};
     static int totalCost = 0, pushCount = 0, popCount = 0, topCount = 0;
 
@@ -41,6 +41,8 @@ class StackAmortizedFriend {
                 default: System.out.println("Invalid choice");
             }
         }
+        System.out.println("\nTotal Cost = " + totalCost);
+        System.out.printf("Amortized Cost = %.2f%n", (double) totalCost / n);
         sc.close();
     }
 }

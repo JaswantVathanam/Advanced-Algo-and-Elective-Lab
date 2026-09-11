@@ -1,0 +1,15 @@
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\bin\Debug\net10.0\LabCSharp.exe
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\bin\Debug\net10.0\LabCSharp.deps.json
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\bin\Debug\net10.0\LabCSharp.runtimeconfig.json
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\bin\Debug\net10.0\LabCSharp.dll
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\bin\Debug\net10.0\LabCSharp.pdb
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\LabCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\LabCSharp.AssemblyInfoInputs.cache
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\LabCSharp.AssemblyInfo.cs
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\LabCSharp.csproj.CoreCompileInputs.cache
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\LabCSharp.sourcelink.json
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\LabCSharp.dll
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\refint\LabCSharp.dll
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\LabCSharp.pdb
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\LabCSharp.genruntimeconfig.cache
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\CSharpApp\obj\Debug\net10.0\ref\LabCSharp.dll

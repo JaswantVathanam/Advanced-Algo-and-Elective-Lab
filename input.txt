@@ -1,0 +1,1 @@
+0)  ; javac Java/GTBFS.java Java/GTDFS.java ; echo JAVA_BFS ; java -cp Java GTBFS  ; echo JAVA_DFS ; java -cp Java GTDFS  ; del /q input.txt 

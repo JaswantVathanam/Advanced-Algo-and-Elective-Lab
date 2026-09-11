@@ -1,0 +1,14 @@
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\bin\Debug\net10.0\GTDFSApp.deps.json
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\bin\Debug\net10.0\GTDFSApp.runtimeconfig.json
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\bin\Debug\net10.0\GTDFSApp.dll
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\bin\Debug\net10.0\GTDFSApp.pdb
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\GTDFSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\GTDFSApp.AssemblyInfoInputs.cache
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\GTDFSApp.AssemblyInfo.cs
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\GTDFSApp.csproj.CoreCompileInputs.cache
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\GTDFSApp.sourcelink.json
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\GTDFSApp.dll
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\refint\GTDFSApp.dll
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\GTDFSApp.pdb
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\GTDFSApp.genruntimeconfig.cache
+D:\University Materials\GCT - M.E\Advanced Algo. and Ele. - Lab\tmp_gtdfs\obj\Debug\net10.0\ref\GTDFSApp.dll
