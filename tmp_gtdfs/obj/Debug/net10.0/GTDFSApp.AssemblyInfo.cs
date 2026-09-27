@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GTDFSApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13c222cd2d1087e3c430b2c991a677d01564eb98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+689ea366cd717be432b769c278060cbcbd574117")]
 [assembly: System.Reflection.AssemblyProductAttribute("GTDFSApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GTDFSApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
